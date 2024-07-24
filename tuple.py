@@ -1,0 +1,10 @@
+tuple=(2,3,5)
+print(tuple)
+var=[1,7,8,5,6]
+print(var)
+x=5
+json={
+    'name':'durga';
+    'rollno':'518';
+}
+print(json)
